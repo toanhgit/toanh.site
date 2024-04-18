@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "toanh.site"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Software Developer"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -37,7 +37,7 @@ navigation:
   - text: Tags
     url: /tags/
   - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+    url: /
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
@@ -47,7 +47,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "."
   has_social: true
 
 # Plugins
